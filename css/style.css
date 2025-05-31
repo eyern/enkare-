@@ -450,11 +450,11 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 .slider_area .slider_inner .camera_caption div h5 {
   color: #3D90D7;
-  font: 400 40px "Roboto", sans-serif;
+  font: 800 40px "Roboto", sans-serif;
 }
 .slider_area .slider_inner .camera_caption div h3 {
   color: #fff;
-  font: 300 21px "Roboto", sans-serif;
+  font: 300 15px "Roboto", sans-serif;
   padding-top: 27px;
 }
 .slider_area .slider_inner .camera_caption div p {
